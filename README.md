@@ -7,5 +7,5 @@
 
 + [HTML](HTML.md)
 + [CSS](CSS.md)
-- create a link to show how to use them together 
++ [Using CSS and HTML together](HTMLandCSS.md)
 
