@@ -1,9 +1,6 @@
-# Final-Project-INFOTC-1600
+# Introduction to HTML and CSS
 
-Title of the tutorial.
+## Created By Sloan Pardo 
+**Purpose:** This tutorial will go over the basics of how to create a helloworld webpage useing HTML and CSS. 
 
-The author of tutorial (Sloan Pardo)
-
-a brief summary of the purpose and content of the tutorial 
-
-a description of the target audence for the tutorial 
+**Target Audience:** Anyone ready to begin their journey towards learning how to create a website. 
