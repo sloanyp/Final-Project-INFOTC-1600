@@ -6,6 +6,6 @@
 **Target Audience:** Anyone ready to begin their journey towards learning how to create beautiful webpages!
 
 + [HTML](HTML.md)
-- create a link decribing what css is 
++ [CSS](CSS.md)
 - create a link to show how to use them together 
 
