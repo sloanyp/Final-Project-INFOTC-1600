@@ -7,5 +7,5 @@
 
 + [HTML](HTML.md)
 + [CSS](CSS.md)
-+ [Adding CSS to HTML together ](HTMLandCSS.md)(Hello World Tutorial)
++ [Adding CSS to HTML together ](HTMLandCSS.md)
 
