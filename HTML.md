@@ -37,6 +37,6 @@ Below I have used HTML elements **h1** and **p** to tell the bowser how to displ
 ![output1](helloWorldExample1.png)
 
 + [CSS](CSS.md)
-+ [Adding CSS to HTML ](HTMLandCSS.md)(Hello World Tutorial)
++ [Adding CSS to HTML ](HTMLandCSS.md)
 + [Home](README.md)
 
