@@ -50,7 +50,39 @@ There are three ways to add CSS to an HTML document.
 ![internal css output picture](internalCSS.png)
 
 ## **External**
-Found in the ``` <head> ``` section by using ``` <link> ``` element
+Found in the ``` <head> ``` section by using ``` <link> ``` element. Often used when trying to define style for multiple HTML pages. 
+
+## CSS External HTML Code Example 
+ ```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hello World!</title>
+        <link rel="stylesheet" href="externalCSS.css">
+    </head>
+    <body>
+        <h1>This is an exaple of a heading element</h1>
+        <p> This is an example of a paragraph element</p>
+    </body>
+</html>
+ ```
+## CSS External externalCSS.css Code Example 
+```css
+body{ 
+    background-color: lightgreen;
+}
+
+h1{
+    color: hotpink;
+}
+
+p{
+    color: plum;
+}
+```
+## Output
+![external css output picture](externalCSS.png)
+
 
 + [HTML](HTML.md)
 + [CSS](CSS.md)
