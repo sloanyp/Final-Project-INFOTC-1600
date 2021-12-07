@@ -6,5 +6,5 @@ CSS stands for Cascading Style Sheets. CSS is a stylesheet that defines the styl
 To learn how to add CSS to HTML click the link below.
 
 + [HTML](HTML.md)
-+ [Adding CSS to HTML ](HTMLandCSS.md)(Hello World Tutorial)
++ [Adding CSS to HTML ](HTMLandCSS.md)
 + [Home](README.md)
