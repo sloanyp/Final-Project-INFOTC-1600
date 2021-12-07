@@ -1,7 +1,7 @@
 # Introduction to HTML and CSS
 
 ## Created By Sloan Pardo 
-**Purpose:** This tutorial will go over the basics of HTML and how to add CSS
+**Purpose/Description:** This tutorial will go over the basics of HTML and how to add CSS
 
 **Target Audience:** Anyone ready to begin their journey towards learning how to create beautiful webpages!
 
