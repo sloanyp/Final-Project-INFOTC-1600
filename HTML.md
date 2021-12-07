@@ -3,6 +3,6 @@ HTML stands for HyperText Markup Language. HTML is a markup Language used to dis
 
 
 + [CSS](CSS.md)
-+ [Using CSS and HTML together](HTMLandCSS.md)(Hello World Tutorial)
++ [Adding CSS to HTML ](HTMLandCSS.md)(Hello World Tutorial)
 + [Home](README.md)
 
